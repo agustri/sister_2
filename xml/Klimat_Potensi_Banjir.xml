@@ -1,0 +1,342 @@
+<XML_Potensi_Banjir>
+ <DatePub>3/17/2014 9:56:07 AM</DatePub>
+ <JmlData>3</JmlData>
+ <Data>
+   <rowData>
+   <bulan>Mei</bulan>
+   <tahun>2014</tahun>
+   <jmlWilayah>21</jmlWilayah>
+   <dataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nangroe Aceh Darussalam</Wilayah>
+   <peta>Potensi_Banjir__2014314133833.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314133833.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sumatera Utara</Wilayah>
+   <peta>Potensi_Banjir__2014314133840.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314133840.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sumatera Barat</Wilayah>
+   <peta>Potensi_Banjir__2014314133950.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314133950.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Riau</Wilayah>
+   <peta>Potensi_Banjir__2014314133959.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314133959.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Bengkulu, Jambi, Sumatera Selatan dan Lampung</Wilayah>
+   <peta>Potensi_Banjir__201431413407.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431413407.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Banten</Wilayah>
+   <peta>Potensi_Banjir__2014314134229.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314134229.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Barat</Wilayah>
+   <peta>Potensi_Banjir__201431413454.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431413454.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>DKI Jakarta</Wilayah>
+   <peta>Potensi_Banjir__2014314134829.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314134829.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Tengah</Wilayah>
+   <peta>Potensi_Banjir__2014314135729.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314135729.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>D.I. Yogyakarta</Wilayah>
+   <peta>Potensi_Banjir__201431414049.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431414049.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Timur</Wilayah>
+   <peta>Potensi_Banjir__201431414544.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431414544.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Barat</Wilayah>
+   <peta>Potensi_Banjir__2014314141238.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141238.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Selatan</Wilayah>
+   <peta>Potensi_Banjir__2014314141312.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141312.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Tengah</Wilayah>
+   <peta>Potensi_Banjir__2014314141323.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141323.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Timur</Wilayah>
+   <peta>Potensi_Banjir__2014314141332.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141332.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Gorontalo, Sulawesi Tengah dan Sulawesi Utara</Wilayah>
+   <peta>Potensi_Banjir__2014314141344.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141344.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sulawesi Barat, Sulawesi Selatan dan Sulawesi Tenggara</Wilayah>
+   <peta>Potensi_Banjir__2014314141352.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141352.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Bali</Wilayah>
+   <peta>Potensi_Banjir__201431414140.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431414140.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nusa Tenggara Barat</Wilayah>
+   <peta>Potensi_Banjir__2014314141411.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141411.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nusa Tenggara Timur</Wilayah>
+   <peta>Potensi_Banjir__2014314141419.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141419.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Papua dan Maluku</Wilayah>
+   <peta>Potensi_Banjir__2014314141427.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314141427.jpg</peta_TB>
+   </rowDataWilayah>
+   </dataWilayah>
+   </rowData>
+   <rowData>
+   <bulan>April</bulan>
+   <tahun>2014</tahun>
+   <jmlWilayah>21</jmlWilayah>
+   <dataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nangroe Aceh Darussalam</Wilayah>
+   <peta>Potensi_Banjir__2014314144853.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314144853.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sumatera Utara</Wilayah>
+   <peta>Potensi_Banjir__2014314144932.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__2014314144932.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sumatera Barat</Wilayah>
+   <peta>Potensi_Banjir__201431414501.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431414501.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Riau</Wilayah>
+   <peta>Potensi_Banjir__201431415143.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431415143.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Bengkulu, Jambi, Sumatera Selatan dan Lampung</Wilayah>
+   <peta>Potensi_Banjir__201431415236.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431415236.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Banten</Wilayah>
+   <peta>Potensi_Banjir__201431415640.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431415640.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Barat</Wilayah>
+   <peta>Potensi_Banjir__201431783737.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431783737.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>DKI Jakarta</Wilayah>
+   <peta>Potensi_Banjir__201431784349.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431784349.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Tengah</Wilayah>
+   <peta>Potensi_Banjir__201431784829.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431784829.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>D.I. Yogyakarta</Wilayah>
+   <peta>Potensi_Banjir__201431785244.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431785244.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Timur</Wilayah>
+   <peta>Potensi_Banjir__201431785619.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431785619.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Barat</Wilayah>
+   <peta>Potensi_Banjir__20143179010.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179010.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Selatan</Wilayah>
+   <peta>Potensi_Banjir__20143179020.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179020.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Tengah</Wilayah>
+   <peta>Potensi_Banjir__20143179028.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179028.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Timur</Wilayah>
+   <peta>Potensi_Banjir__20143179249.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179249.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Gorontalo, Sulawesi Tengah dan Sulawesi Utara</Wilayah>
+   <peta>Potensi_Banjir__20143179539.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179539.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sulawesi Barat, Sulawesi Selatan dan Sulawesi Tenggara</Wilayah>
+   <peta>Potensi_Banjir__20143179928.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179928.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Bali</Wilayah>
+   <peta>Potensi_Banjir__20143179937.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179937.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nusa Tenggara Barat</Wilayah>
+   <peta>Potensi_Banjir__20143179947.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179947.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nusa Tenggara Timur</Wilayah>
+   <peta>Potensi_Banjir__20143179955.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179955.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Papua dan Maluku</Wilayah>
+   <peta>Potensi_Banjir__20143179103.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179103.jpg</peta_TB>
+   </rowDataWilayah>
+   </dataWilayah>
+   </rowData>
+   <rowData>
+   <bulan>Maret</bulan>
+   <tahun>2014</tahun>
+   <jmlWilayah>21</jmlWilayah>
+   <dataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nangroe Aceh Darussalam</Wilayah>
+   <peta>Potensi_Banjir__201431791041.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791041.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sumatera Utara</Wilayah>
+   <peta>Potensi_Banjir__201431791051.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791051.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sumatera Barat</Wilayah>
+   <peta>Potensi_Banjir__20143179110.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179110.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Riau</Wilayah>
+   <peta>Potensi_Banjir__20143179119.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179119.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Bengkulu, Jambi, Sumatera Selatan dan Lampung</Wilayah>
+   <peta>Potensi_Banjir__201431791116.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791116.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Banten</Wilayah>
+   <peta>Potensi_Banjir__201431791125.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791125.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Barat</Wilayah>
+   <peta>Potensi_Banjir__201431791133.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791133.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>DKI Jakarta</Wilayah>
+   <peta>Potensi_Banjir__201431791141.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791141.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Tengah</Wilayah>
+   <peta>Potensi_Banjir__201431791149.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791149.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>D.I. Yogyakarta</Wilayah>
+   <peta>Potensi_Banjir__201431791156.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791156.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Jawa Timur</Wilayah>
+   <peta>Potensi_Banjir__20143179125.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__20143179125.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Barat</Wilayah>
+   <peta>Potensi_Banjir__201431791424.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791424.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Selatan</Wilayah>
+   <peta>Potensi_Banjir__201431791929.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431791929.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Tengah</Wilayah>
+   <peta>Potensi_Banjir__201431792219.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431792219.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Kalimantan Timur</Wilayah>
+   <peta>Potensi_Banjir__201431792444.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431792444.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Gorontalo, Sulawesi Tengah dan Sulawesi Utara</Wilayah>
+   <peta>Potensi_Banjir__201431795435.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431795435.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Sulawesi Barat, Sulawesi Selatan dan Sulawesi Tenggara</Wilayah>
+   <peta>Potensi_Banjir__201431795446.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431795446.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Bali</Wilayah>
+   <peta>Potensi_Banjir__201431795456.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431795456.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nusa Tenggara Barat</Wilayah>
+   <peta>Potensi_Banjir__201431795538.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431795538.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Nusa Tenggara Timur</Wilayah>
+   <peta>Potensi_Banjir__201431795547.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431795547.jpg</peta_TB>
+   </rowDataWilayah>
+   <rowDataWilayah>
+   <Wilayah>Papua dan Maluku</Wilayah>
+   <peta>Potensi_Banjir__201431795556.jpg</peta>
+   <peta_TB>TB_Potensi_Banjir__201431795556.jpg</peta_TB>
+   </rowDataWilayah>
+   </dataWilayah>
+   </rowData>
+  </Data>
+</XML_Potensi_Banjir>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gelombang>
+<pubDate>4/3/2014</pubDate>
+<data>
+<fromDate>4/2/2014 7:00:00 PM</fromDate>
+<toDate>4/3/2014 7:00:00 AM</toDate>
+<PetaHujan>20140402164859.RR_today.png</PetaHujan>
+<PetaGelombang>20140402164859.Wave_today.png</PetaGelombang>
+<Gelombang>
+<DataGelombang>
+<TinggiGelombang><b>2.0 - 3.0 </b></TinggiGelombang>
+<Wilayah>
+<Wil> Samudera Hindia barat Sumatera Utara - Sumatera Barat</Wil>
+<Wil> Perairan utara Kep. Sangihe dan Kep. Talaud.</Wil>
+</Wilayah>
+<JmlDataWil>2</JmlDataWil>
+</DataGelombang>
+</Gelombang>
+<JmlDataGelombang>1</JmlDataGelombang>
+<WilayahHujan>
+<Wil>erairan Kep. Nias dan Sibolga   Perairan Kep. Mentawai - Padang   Perairan Bengkulu hingga barat Lampung   Perairan selatan Banten   Perairan selatan Jawa Tengah   Perairan Kalimantan Tengah - Kalimantan Selatan   Selat Makassar bagian selatan dan tengah   Teluk Bone   Teluk Tomini   Laut Maluku   Perairan Sorong - Kep. Raja Ampat   Teluk Cenderawasih   Laut Seram bagian timur - FakFak   Perairan Kaimana - Amamapare   Laut Banda bagian utara   Perairan Kep. Babar   Perairan Merauke </Wil>
+</WilayahHujan>
+<JmlDataWilHujan>1</JmlDataWilHujan>
+</data>
+<data>
+<fromDate>4/3/2014 7:00:00 AM</fromDate>
+<toDate>4/3/2014 7:00:00 PM</toDate>
+<PetaHujan>20140402165057.RR_tomorrow.png</PetaHujan>
+<PetaGelombang>20140402165057.Wave_tomorrow.png</PetaGelombang>
+<Gelombang>
+<DataGelombang>
+<TinggiGelombang><b>2.0 - 3.0 </b></TinggiGelombang>
+<Wilayah>
+<Wil> Samudera Hindia barat Sumatera Utara - Sumatera Barat</Wil>
+<Wil> Perairan Kep. Sangihe dan Kep. Talaud</Wil>
+<Wil> Samudera Pasifik utara Jayapura.</Wil>
+</Wilayah>
+<JmlDataWil>3</JmlDataWil>
+</DataGelombang>
+</Gelombang>
+<JmlDataGelombang>1</JmlDataGelombang>
+<WilayahHujan>
+<Wil>erairan Kep. Nias dan Sibolga   Perairan Kep. Mentawai - Padang   Perairan Bengkulu   Perairan Pontianak   Perairan selatan Banten   Perairan selatan Jawa Tengah   Perairan Kalimantan Tengah - Kalimantan Selatan   Selat Makassar bagian selatan dan tengah   Teluk Bone   Laut Maluku   Perairan Sorong - Kep. Raja Ampat   Laut Seram bagian timur - FakFak   Perairan Kaimana - Amamapare   Laut Banda   Perairan Merauke </Wil>
+</WilayahHujan>
+<JmlDataWilHujan>1</JmlDataWilHujan>
+</data>
+</Gelombang>
