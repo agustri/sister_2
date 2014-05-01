@@ -11,18 +11,22 @@ xml_source = {
 	5 : "http://data.bmkg.go.id/Maritim_Tinggi_Gelombang_12jam.xml"
 }
 
+# download data dari url
 def readurl(url):
 	url = urllib2.urlopen(url)
 	data = url.read()
 	url.close()
 	return data
 
+# menggabungkan string name dan value menjadi 'name<spasi>: value'
 def addvalue(name, value):
 	return "{0:23}: {1}\n".format(str(name), str(value))
 
+# konversi node dari xml menjadi 'node.tag<spasi>: node.text'
 def addnode(node):
 	return "{0:23}: {1}\n".format(str(node.tag), str(node.text))
 
+# ============= Download kemudian parsing file xml ==================
 def aviation_observation():
 	tree = ET.parse("xml/aviation_observation.xml") 
 	root = tree.getroot()
@@ -103,3 +107,4 @@ def Maritim_Tinggi_Gelombang_12jam():
 		else:
 			output += addnode(i)
 	return output
+# ===================================================================

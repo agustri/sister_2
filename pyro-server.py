@@ -1,6 +1,7 @@
 from bmkg import *
 import Pyro4
 
+# Membuat class BKMG
 class BMKG(object):
 	def moh(self):
 		return "YOOOO"
@@ -17,6 +18,8 @@ class BMKG(object):
 
 Pyro4.Daemon.serveSimple(
 	{
+		# Registrasi object BMKG sebagia remote object dari class BMKG
 		BMKG() : "BMKG"
 	},
-	host="localhost", port=9999, ns=False, verbose=True)
+	# membuat server pada localhost port 9999
+	host="localhost", port=9999, ns=False, verbose=True) 
