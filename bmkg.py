@@ -51,7 +51,7 @@ def cuaca_indo_1 ():
 	output = addvalue("tanggal mulai", root[0][0].text)
 	output += addvalue("tanggal selesai", root[0][1].text)
 	output += "[data pertama : cuaca_indo_1]\n"
-	for i in root[1][0]:
+	for i in root[1][1]:
 		output += addnode(i)
 	return output
 
